@@ -15,7 +15,7 @@ Here are some projects I have worked on below. You can view more of my documente
 <div class="project-card">
   <a href="https://websites.uta.edu/cseseniordesign/2025/12/09/raven/" target="_blank" class="project-link">
     <div class="project-image-wrapper">
-      <img src="/images/projects/raven_drone.jpeg" alt="RAVEN Project" class="project-image">
+      <img src="{{ site.baseurl }}/images/projects/raven_drone.jpeg" alt="RAVEN Project" class="project-image">
     </div>
     <div class="project-content">
       <h3 class="project-title">RAVEN</h3>
@@ -29,7 +29,7 @@ Here are some projects I have worked on below. You can view more of my documente
 <div class="project-card">
   <a href="https://github.com/elvinpalushi/UTA-Projects-and-Work/tree/main/cse3311" target="_blank" class="project-link">
     <div class="project-image-wrapper">
-      <img src="/images/projects/TheBingeSpotIcon.jpg" alt="The BingeSpot Project" class="project-image">
+      <img src="{{ site.baseurl }}/images/projects/TheBingeSpotIcon.jpg" alt="The BingeSpot Project" class="project-image">
     </div>
     <div class="project-content">
       <h3 class="project-title">The BingeSpot</h3>
